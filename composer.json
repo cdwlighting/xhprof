@@ -1,0 +1,11 @@
+{
+    "name": "cdw.lighting/xhprof",
+    "description": "XHGuid installer",
+    "minimum-stability": "stable",
+    "authors": [
+        {
+            "name": "Chris Warner",
+            "email": "cdw.lighting@gmail.com"
+        }
+    ]
+}
